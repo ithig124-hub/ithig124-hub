@@ -1,10 +1,8 @@
-Perfect! We can **combine your About Me, Fun Facts, and GitHub-style pointers** into a clean, friendly, and professional profile README format. Here’s a polished draft:
 
----
 
 # Hi there 👋
 
-I’m a **high school student** who loves building and experimenting with tech. I’ve worked on projects like **ESP32-S3 smartwatch firmware**, small drones, and fun web experiments.
+I’m a **high school student** based in Australia who loves building and experimenting with tech. I’ve worked on projects like **ESP32-S3 smartwatch firmware**, small drones, and fun web experiments.
 
 When I’m not coding, I enjoy **gaming 🎮**, staying active with **sports ⚽🏀**, and exploring **science 🔬**, especially **chemistry and biology**. My big dream is to become a **mechatronics engineer or doctor**, combining creativity, technology, and problem-solving to make a real impact.
 
