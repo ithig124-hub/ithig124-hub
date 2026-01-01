@@ -1,16 +1,45 @@
-## Hi there 👋
+Perfect! We can **combine your About Me, Fun Facts, and GitHub-style pointers** into a clean, friendly, and professional profile README format. Here’s a polished draft:
 
-<!--
-**ithig124-hub/ithig124-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a **high school student** who loves building and experimenting with tech. I’ve worked on projects like **ESP32-S3 smartwatch firmware**, small drones, and fun web experiments.
+
+When I’m not coding, I enjoy **gaming 🎮**, staying active with **sports ⚽🏀**, and exploring **science 🔬**, especially **chemistry and biology**. My big dream is to become a **mechatronics engineer or doctor**, combining creativity, technology, and problem-solving to make a real impact.
+
+---
+
+## 🔭 I’m currently working on
+
+* ESP32-S3 smartwatch firmware
+* Small drones and embedded projects
+* Fun web experiments
+
+## 🌱 I’m currently learning
+
+* Advanced **embedded systems**
+* **Web development** frameworks
+* More about **mechatronics & robotics**
+
+## 👯 I’m looking to collaborate on
+
+* Open-source **tech projects**
+* Embedded system experiments
+* Creative coding challenges
+* Designing Systems and Products
+
+## 💬 Ask me about
+
+* **ESP32 projects**, drones, or firmware
+* **Science experiments**
+* Anime or book recommendations
+
+## ⚡ Fun Facts
+
+* 📚 I love **crime, mystery, and adventure books**
+* 🍥 Huge anime fan — **One Piece, Naruto, Spy x Family**
+* 🕵️‍♂️ Love exploring **mysteries and adventures**
+* 🔬 Fascinated by **science**, especially **chemistry and biology**
+
+---
